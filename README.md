@@ -1,2 +1,2 @@
 # newdash
-This is new Bootstrap Dashboardd Design
+This is new Bootstrap Dashboard Design
